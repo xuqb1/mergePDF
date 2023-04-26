@@ -1,0 +1,1 @@
+set CLASSPATH=.;D:\jdk1.8.0_111\bin;D:\jdk1.8.0_111\lib\dt.jar;D:\jdk1.8.0_111\lib\tools.jar;.\itextpdf-5.1.2.jar;.\bcprov-jdk16-1.46.jar;
